@@ -1,0 +1,401 @@
+transaction_id,account_id,transaction_date,transaction_hour,amount,transcation_type,category
+1,1,2026-03-22,20,384.51,Debit,"Loan Payment"
+2,1,2026-03-27,5,442.24,Debit,Shopping
+3,1,2026-04-04,14,433.88,Debit,Shopping
+4,1,2026-04-07,7,484.33,Credit,Shopping
+5,1,2026-04-07,18,209.03,Debit,Travel
+6,1,2026-04-10,11,321.30,Debit,"Loan Payment"
+7,1,2026-04-18,18,341.62,Debit,Utilities
+8,1,2026-04-19,14,114.40,Debit,Transfer
+9,1,2026-05-04,18,352.87,Debit,Dining
+10,1,2026-05-05,15,514.09,Credit,Shopping
+11,1,2026-05-10,21,269.07,Debit,"ATM Withdrawal"
+12,1,2026-05-15,11,115.06,Debit,Travel
+13,1,2026-05-27,12,528.11,Debit,Dining
+14,1,2026-05-27,16,210.20,Debit,Travel
+15,1,2026-06-01,6,227.76,Debit,Travel
+16,1,2026-06-02,11,286.01,Debit,Groceries
+17,1,2026-06-11,12,196.64,Debit,Utilities
+18,1,2026-06-14,14,302.19,Debit,"Loan Payment"
+19,1,2026-06-21,6,135.38,Credit,Dining
+20,1,2026-06-23,11,275.43,Debit,Groceries
+21,1,2026-06-24,15,319.94,Credit,Travel
+22,1,2026-06-30,14,174.20,Credit,"ATM Withdrawal"
+23,2,2026-03-04,17,106.64,Debit,Transfer
+24,2,2026-03-20,16,79.84,Debit,Groceries
+25,2,2026-03-25,23,52.43,Debit,Transfer
+26,2,2026-03-26,21,120.80,Credit,Groceries
+27,2,2026-03-26,13,92.49,Credit,Groceries
+28,2,2026-03-28,15,132.14,Debit,Groceries
+29,2,2026-03-29,17,70.08,Debit,Travel
+30,2,2026-04-01,14,77.18,Debit,Shopping
+31,2,2026-04-03,12,59.26,Debit,Transfer
+32,2,2026-04-05,17,98.96,Credit,"Loan Payment"
+33,2,2026-04-07,14,113.72,Credit,"ATM Withdrawal"
+34,2,2026-04-07,8,27.91,Credit,"ATM Withdrawal"
+35,2,2026-04-08,14,81.78,Debit,Transfer
+36,2,2026-04-09,15,44.06,Debit,Transfer
+37,2,2026-04-14,18,61.35,Credit,Groceries
+38,2,2026-04-15,10,135.19,Debit,Utilities
+39,2,2026-04-17,14,136.50,Debit,Dining
+40,2,2026-04-23,15,85.05,Debit,Travel
+41,2,2026-04-24,12,104.66,Debit,Dining
+42,2,2026-04-26,12,119.46,Debit,Shopping
+43,2,2026-04-26,10,66.51,Debit,Groceries
+44,2,2026-04-29,17,31.18,Debit,Shopping
+45,2,2026-04-30,12,101.28,Credit,"Loan Payment"
+46,2,2026-04-30,15,59.01,Debit,Dining
+47,2,2026-05-04,13,86.28,Debit,"Loan Payment"
+48,2,2026-05-05,19,74.12,Debit,"ATM Withdrawal"
+49,2,2026-05-05,17,89.22,Debit,Shopping
+50,2,2026-05-11,20,86.15,Debit,Groceries
+51,2,2026-05-13,15,150.34,Debit,"Loan Payment"
+52,2,2026-05-17,15,111.45,Debit,Shopping
+53,2,2026-05-21,14,119.65,Debit,"ATM Withdrawal"
+54,2,2026-05-29,18,54.17,Debit,Transfer
+55,2,2026-06-08,16,105.30,Debit,Dining
+56,2,2026-06-10,11,66.07,Debit,Groceries
+57,2,2026-06-12,23,116.37,Debit,Dining
+58,2,2026-06-20,7,93.31,Debit,Groceries
+59,2,2026-06-21,17,101.84,Debit,"Loan Payment"
+60,2,2026-06-24,9,64.60,Credit,Shopping
+61,2,2026-06-28,16,34.24,Debit,"ATM Withdrawal"
+62,2,2026-06-28,11,95.63,Debit,"ATM Withdrawal"
+63,2,2026-06-28,8,97.68,Debit,"Loan Payment"
+64,2,2026-06-29,10,73.29,Debit,Dining
+65,2,2026-06-30,12,92.76,Debit,Utilities
+66,3,2026-03-04,16,163.77,Debit,"Loan Payment"
+67,3,2026-03-07,16,62.01,Debit,"ATM Withdrawal"
+68,3,2026-03-08,6,191.72,Debit,"ATM Withdrawal"
+69,3,2026-03-13,19,191.93,Debit,Shopping
+70,3,2026-03-14,10,216.11,Debit,Transfer
+71,3,2026-03-15,6,111.76,Debit,Shopping
+72,3,2026-03-22,19,191.69,Debit,Dining
+73,3,2026-03-23,9,68.31,Debit,Transfer
+74,3,2026-03-24,12,156.75,Debit,Dining
+75,3,2026-03-26,6,160.97,Debit,Travel
+76,3,2026-03-30,16,248.68,Debit,Transfer
+77,3,2026-03-30,14,83.52,Credit,"Loan Payment"
+78,3,2026-03-30,14,220.90,Debit,Utilities
+79,3,2026-04-02,7,220.06,Credit,Utilities
+80,3,2026-04-02,14,112.63,Credit,Shopping
+81,3,2026-04-03,11,180.76,Debit,"Loan Payment"
+82,3,2026-04-10,17,90.50,Debit,Dining
+83,3,2026-04-19,14,120.19,Debit,"ATM Withdrawal"
+84,3,2026-04-25,16,136.50,Debit,Travel
+85,3,2026-04-28,10,131.28,Credit,Dining
+86,3,2026-05-03,12,50.16,Debit,Transfer
+87,3,2026-05-06,16,177.33,Debit,Transfer
+88,3,2026-05-07,15,268.39,Debit,Dining
+89,3,2026-05-08,13,274.17,Debit,Travel
+90,3,2026-05-11,10,124.11,Debit,"ATM Withdrawal"
+91,3,2026-05-12,18,225.03,Credit,"Loan Payment"
+92,3,2026-05-15,8,162.82,Debit,Utilities
+93,3,2026-05-17,10,174.08,Debit,Dining
+94,3,2026-05-20,17,134.22,Debit,Travel
+95,3,2026-05-21,14,135.83,Debit,Shopping
+96,3,2026-05-25,17,325.92,Debit,"Loan Payment"
+97,3,2026-05-29,9,127.15,Debit,Groceries
+98,3,2026-06-01,16,44.57,Debit,Travel
+99,3,2026-06-07,14,164.73,Debit,Transfer
+100,3,2026-06-08,16,205.89,Debit,"Loan Payment"
+101,3,2026-06-11,12,99.02,Debit,Dining
+102,3,2026-06-11,10,125.11,Debit,Dining
+103,3,2026-06-23,16,249.94,Debit,"Loan Payment"
+104,3,2026-06-27,13,235.86,Debit,"ATM Withdrawal"
+105,3,2026-06-28,14,110.70,Credit,Shopping
+106,4,2026-03-12,15,173.22,Debit,Utilities
+107,4,2026-03-29,10,184.16,Debit,"ATM Withdrawal"
+108,4,2026-03-30,13,175.51,Debit,Groceries
+109,4,2026-03-31,12,154.00,Debit,"Loan Payment"
+110,4,2026-04-29,4,231.15,Debit,Shopping
+111,4,2026-05-03,5,311.59,Debit,"Loan Payment"
+112,4,2026-05-05,22,91.42,Debit,Travel
+113,4,2026-05-28,20,107.99,Debit,Shopping
+114,4,2026-06-06,17,275.32,Debit,Transfer
+115,4,2026-06-09,13,304.79,Debit,"ATM Withdrawal"
+116,4,2026-06-10,11,275.95,Credit,Shopping
+117,4,2026-06-20,14,257.46,Credit,Utilities
+118,4,2026-06-23,10,18.57,Debit,Utilities
+119,4,2026-06-23,19,296.26,Debit,Utilities
+120,4,2026-06-25,15,503.31,Debit,Dining
+121,4,2026-06-26,15,206.86,Debit,"ATM Withdrawal"
+122,4,2026-06-27,13,236.95,Debit,Travel
+123,5,2026-03-12,22,191.76,Debit,Travel
+124,5,2026-03-14,17,168.90,Debit,Utilities
+125,5,2026-04-01,8,116.71,Debit,Groceries
+126,5,2026-04-01,4,94.68,Credit,Shopping
+127,5,2026-04-18,12,165.81,Debit,Shopping
+128,5,2026-05-02,10,137.45,Debit,"Loan Payment"
+129,5,2026-05-05,18,211.14,Debit,Transfer
+130,5,2026-05-13,14,175.91,Credit,"ATM Withdrawal"
+131,5,2026-05-15,11,248.82,Credit,Groceries
+132,5,2026-05-18,15,198.17,Debit,Dining
+133,5,2026-05-22,15,163.91,Debit,Travel
+134,5,2026-05-28,10,103.08,Debit,"Loan Payment"
+135,5,2026-05-28,10,183.49,Credit,Transfer
+136,5,2026-05-31,16,52.95,Debit,Dining
+137,5,2026-06-03,11,141.28,Debit,"Loan Payment"
+138,5,2026-06-08,19,105.63,Debit,Transfer
+139,5,2026-06-17,15,232.89,Debit,"ATM Withdrawal"
+140,5,2026-06-24,12,256.31,Debit,"Loan Payment"
+141,5,2026-06-25,14,192.71,Debit,Groceries
+142,6,2026-03-06,19,269.61,Debit,Transfer
+143,6,2026-03-12,20,133.11,Debit,Dining
+144,6,2026-03-24,12,180.91,Credit,Shopping
+145,6,2026-03-28,13,315.13,Debit,Groceries
+146,6,2026-03-31,14,334.59,Credit,Travel
+147,6,2026-04-06,12,292.81,Debit,Travel
+148,6,2026-04-15,19,279.60,Debit,Utilities
+149,6,2026-04-18,14,63.89,Credit,"Loan Payment"
+150,6,2026-04-28,12,209.92,Debit,Travel
+151,6,2026-05-05,16,156.39,Credit,Dining
+152,6,2026-05-09,15,132.73,Debit,"Loan Payment"
+153,6,2026-05-10,5,142.24,Debit,Shopping
+154,6,2026-05-14,10,274.76,Credit,Shopping
+155,6,2026-05-26,9,294.05,Credit,"ATM Withdrawal"
+156,6,2026-05-27,15,295.82,Debit,Transfer
+157,6,2026-05-27,18,250.18,Credit,Transfer
+158,6,2026-06-06,7,212.22,Debit,Utilities
+159,6,2026-06-07,23,260.52,Debit,"Loan Payment"
+160,6,2026-06-08,12,300.36,Credit,Transfer
+161,6,2026-06-11,14,328.74,Debit,"ATM Withdrawal"
+162,6,2026-06-12,13,351.75,Credit,Groceries
+163,6,2026-06-16,13,175.90,Credit,Travel
+164,6,2026-06-19,10,109.10,Credit,Dining
+165,6,2026-06-19,10,225.64,Debit,Transfer
+166,6,2026-06-29,14,341.93,Credit,"ATM Withdrawal"
+167,6,2026-06-30,10,271.61,Credit,Dining
+168,7,2026-03-14,17,30.24,Debit,"Loan Payment"
+169,7,2026-03-14,10,102.42,Credit,"ATM Withdrawal"
+170,7,2026-03-28,15,49.48,Credit,"Loan Payment"
+171,7,2026-03-29,5,186.06,Debit,"ATM Withdrawal"
+172,7,2026-03-31,8,87.09,Debit,"ATM Withdrawal"
+173,7,2026-04-07,11,141.76,Debit,"ATM Withdrawal"
+174,7,2026-04-14,13,122.81,Debit,Utilities
+175,7,2026-04-17,9,180.43,Debit,"ATM Withdrawal"
+176,7,2026-04-19,11,110.02,Credit,"Loan Payment"
+177,7,2026-04-21,10,70.29,Debit,Groceries
+178,7,2026-04-22,16,145.60,Debit,Utilities
+179,7,2026-05-03,14,140.72,Debit,Travel
+180,7,2026-05-07,12,55.50,Debit,"ATM Withdrawal"
+181,7,2026-05-18,11,186.34,Debit,Dining
+182,7,2026-05-21,13,135.51,Debit,Groceries
+183,7,2026-05-28,16,87.49,Debit,"Loan Payment"
+184,7,2026-05-31,14,139.13,Credit,Transfer
+185,7,2026-06-01,19,156.65,Debit,"Loan Payment"
+186,7,2026-06-04,13,53.07,Debit,Utilities
+187,7,2026-06-22,13,96.45,Credit,Utilities
+188,7,2026-06-24,13,161.12,Debit,Transfer
+189,7,2026-06-24,18,143.75,Debit,Groceries
+190,7,2026-06-26,10,115.98,Debit,"ATM Withdrawal"
+191,8,2026-03-03,16,166.51,Debit,Utilities
+192,8,2026-03-17,20,185.78,Debit,Dining
+193,8,2026-03-20,19,142.12,Debit,Shopping
+194,8,2026-03-24,23,152.39,Debit,Shopping
+195,8,2026-04-02,16,92.83,Debit,Groceries
+196,8,2026-04-06,15,95.94,Debit,Utilities
+197,8,2026-04-19,13,108.07,Debit,Transfer
+198,8,2026-04-25,17,150.47,Debit,"Loan Payment"
+199,8,2026-05-16,7,135.02,Debit,Transfer
+200,8,2026-05-17,19,42.85,Debit,Shopping
+201,8,2026-05-18,18,92.73,Debit,Utilities
+202,8,2026-05-19,18,80.12,Debit,"ATM Withdrawal"
+203,8,2026-05-29,11,126.37,Debit,Travel
+204,8,2026-05-29,14,31.90,Debit,Transfer
+205,8,2026-05-30,11,58.87,Debit,Transfer
+206,8,2026-06-07,14,88.29,Debit,Utilities
+207,8,2026-06-19,19,114.59,Debit,Travel
+208,8,2026-06-25,13,5.00,Debit,Dining
+209,9,2026-03-14,19,116.39,Debit,Dining
+210,9,2026-03-16,16,66.15,Credit,Travel
+211,9,2026-03-16,13,127.91,Debit,Shopping
+212,9,2026-03-19,11,107.58,Debit,"Loan Payment"
+213,9,2026-03-25,10,95.01,Credit,Travel
+214,9,2026-03-26,17,87.93,Debit,Dining
+215,9,2026-03-26,21,133.52,Debit,Utilities
+216,9,2026-03-28,3,75.02,Debit,Shopping
+217,9,2026-04-02,9,86.18,Debit,Transfer
+218,9,2026-04-06,14,168.95,Credit,Utilities
+219,9,2026-04-09,15,169.45,Debit,"Loan Payment"
+220,9,2026-04-12,15,165.08,Debit,"ATM Withdrawal"
+221,9,2026-04-13,14,76.06,Credit,Transfer
+222,9,2026-04-13,17,109.12,Debit,Shopping
+223,9,2026-04-18,12,115.80,Debit,Transfer
+224,9,2026-04-20,15,67.94,Debit,"Loan Payment"
+225,9,2026-04-21,17,114.88,Debit,Travel
+226,9,2026-04-23,11,171.85,Credit,Groceries
+227,9,2026-05-01,19,118.73,Debit,Dining
+228,9,2026-05-02,13,106.44,Debit,Dining
+229,9,2026-05-03,21,164.08,Credit,Dining
+230,9,2026-05-14,9,159.60,Debit,"Loan Payment"
+231,9,2026-05-18,10,88.98,Debit,Transfer
+232,9,2026-05-18,15,231.46,Debit,Groceries
+233,9,2026-05-23,14,128.87,Credit,Travel
+234,9,2026-06-01,20,120.36,Debit,Groceries
+235,9,2026-06-04,17,161.60,Debit,"Loan Payment"
+236,9,2026-06-05,13,176.39,Credit,"Loan Payment"
+237,9,2026-06-05,12,212.51,Debit,Groceries
+238,9,2026-06-12,18,74.70,Debit,Groceries
+239,9,2026-06-14,6,139.77,Debit,Utilities
+240,9,2026-06-18,16,30.03,Debit,"Loan Payment"
+241,9,2026-06-20,13,245.35,Debit,Transfer
+242,9,2026-06-23,15,136.65,Debit,Utilities
+243,9,2026-06-24,17,98.43,Debit,Travel
+244,9,2026-06-30,16,133.25,Debit,Transfer
+245,10,2026-03-16,16,124.79,Credit,Shopping
+246,10,2026-03-21,7,72.47,Credit,"Loan Payment"
+247,10,2026-03-22,21,112.65,Debit,"ATM Withdrawal"
+248,10,2026-03-22,16,134.99,Debit,Travel
+249,10,2026-03-29,3,62.99,Debit,Groceries
+250,10,2026-04-02,10,69.56,Debit,Utilities
+251,10,2026-04-14,14,87.81,Debit,Groceries
+252,10,2026-04-27,17,127.49,Debit,Groceries
+253,10,2026-05-03,16,168.61,Debit,Utilities
+254,10,2026-05-09,8,137.42,Credit,Dining
+255,10,2026-05-09,16,110.90,Debit,Travel
+256,10,2026-05-13,12,60.39,Credit,Transfer
+257,10,2026-05-16,19,125.67,Debit,Transfer
+258,10,2026-05-19,7,125.46,Debit,"Loan Payment"
+259,10,2026-05-25,5,71.50,Debit,Transfer
+260,10,2026-06-01,19,112.52,Debit,Dining
+261,10,2026-06-16,21,105.93,Credit,Dining
+262,10,2026-06-16,11,83.35,Debit,"ATM Withdrawal"
+263,11,2026-03-03,9,61.26,Debit,Transfer
+264,11,2026-03-12,8,87.28,Debit,"Loan Payment"
+265,11,2026-03-18,3,51.79,Credit,Shopping
+266,11,2026-03-21,15,127.62,Credit,Travel
+267,11,2026-04-01,10,82.27,Debit,Utilities
+268,11,2026-04-08,16,70.49,Credit,Travel
+269,11,2026-04-21,17,5.00,Credit,Groceries
+270,11,2026-04-23,17,65.80,Debit,Dining
+271,11,2026-05-03,5,72.39,Debit,Dining
+272,11,2026-05-05,12,63.16,Credit,Groceries
+273,11,2026-05-08,16,92.73,Debit,"Loan Payment"
+274,11,2026-05-17,14,114.35,Debit,Dining
+275,11,2026-05-31,12,35.87,Debit,"Loan Payment"
+276,11,2026-06-16,9,33.32,Debit,Groceries
+277,11,2026-06-17,13,80.84,Debit,Transfer
+278,11,2026-06-17,14,54.76,Debit,"Loan Payment"
+279,11,2026-06-24,16,83.27,Debit,Shopping
+280,11,2026-06-26,19,74.04,Debit,Transfer
+281,12,2026-03-03,22,47.14,Debit,"ATM Withdrawal"
+282,12,2026-03-07,10,12.69,Credit,Travel
+283,12,2026-03-10,5,47.73,Debit,"ATM Withdrawal"
+284,12,2026-03-14,18,39.24,Debit,"ATM Withdrawal"
+285,12,2026-03-15,14,86.42,Debit,Dining
+286,12,2026-03-17,13,60.15,Credit,"Loan Payment"
+287,12,2026-03-18,15,54.35,Debit,"ATM Withdrawal"
+288,12,2026-03-21,8,82.08,Debit,Travel
+289,12,2026-03-28,15,66.58,Debit,Groceries
+290,12,2026-04-05,12,57.84,Debit,Utilities
+291,12,2026-04-09,17,63.14,Debit,Groceries
+292,12,2026-04-16,14,17.63,Debit,Transfer
+293,12,2026-05-05,16,83.64,Credit,Dining
+294,12,2026-05-11,16,6.43,Debit,Groceries
+295,12,2026-05-11,12,46.56,Debit,Travel
+296,12,2026-05-14,21,34.18,Debit,Utilities
+297,12,2026-06-08,17,27.61,Debit,Travel
+298,12,2026-06-09,19,25.54,Debit,Shopping
+299,12,2026-06-26,10,72.64,Debit,Groceries
+300,13,2026-03-04,14,61.68,Debit,Shopping
+301,13,2026-03-11,15,245.87,Debit,"Loan Payment"
+302,13,2026-03-12,11,131.77,Credit,Shopping
+303,13,2026-03-16,14,237.48,Debit,Dining
+304,13,2026-03-17,12,252.63,Debit,Dining
+305,13,2026-03-17,16,124.49,Debit,Transfer
+306,13,2026-03-19,22,138.69,Debit,Travel
+307,13,2026-03-20,17,183.34,Credit,Dining
+308,13,2026-03-21,10,277.22,Debit,Shopping
+309,13,2026-03-27,17,191.62,Debit,Travel
+310,13,2026-03-28,12,309.82,Debit,"Loan Payment"
+311,13,2026-04-02,13,210.60,Debit,Transfer
+312,13,2026-04-05,13,258.89,Debit,Dining
+313,13,2026-04-06,10,255.47,Credit,"ATM Withdrawal"
+314,13,2026-04-07,14,309.50,Debit,Travel
+315,13,2026-04-18,9,189.68,Credit,Utilities
+316,13,2026-04-20,5,234.29,Debit,"Loan Payment"
+317,13,2026-04-21,12,118.92,Debit,Travel
+318,13,2026-04-27,20,206.11,Debit,Utilities
+319,13,2026-05-01,14,248.15,Credit,"Loan Payment"
+320,13,2026-05-08,8,240.80,Debit,Dining
+321,13,2026-05-16,15,324.64,Debit,Groceries
+322,13,2026-05-16,9,181.30,Debit,"ATM Withdrawal"
+323,13,2026-05-17,10,85.96,Debit,Shopping
+324,13,2026-05-17,11,233.80,Debit,Shopping
+325,13,2026-05-25,16,266.07,Credit,Utilities
+326,13,2026-05-26,10,211.12,Debit,Groceries
+327,13,2026-05-31,10,211.32,Credit,Travel
+328,13,2026-06-01,14,126.19,Credit,Travel
+329,13,2026-06-01,13,123.13,Debit,Transfer
+330,13,2026-06-03,20,73.76,Debit,Utilities
+331,13,2026-06-07,19,155.37,Debit,Shopping
+332,13,2026-06-08,6,139.60,Credit,"Loan Payment"
+333,13,2026-06-09,14,111.09,Debit,Travel
+334,13,2026-06-10,13,240.64,Credit,Shopping
+335,13,2026-06-10,19,177.31,Debit,Groceries
+336,13,2026-06-12,16,198.43,Debit,Transfer
+337,13,2026-06-19,10,94.54,Credit,Shopping
+338,13,2026-06-19,12,302.40,Credit,Transfer
+339,13,2026-06-25,14,144.08,Debit,Dining
+340,13,2026-06-29,8,103.49,Debit,Travel
+341,14,2026-03-03,16,59.33,Debit,"Loan Payment"
+342,14,2026-03-06,15,226.75,Credit,Travel
+343,14,2026-03-08,11,83.62,Credit,Dining
+344,14,2026-03-12,11,378.35,Debit,Transfer
+345,14,2026-03-16,17,171.63,Debit,Groceries
+346,14,2026-03-16,13,183.63,Debit,Groceries
+347,14,2026-03-21,10,73.83,Debit,Shopping
+348,14,2026-03-23,13,190.33,Debit,Shopping
+349,14,2026-03-24,11,191.33,Credit,Shopping
+350,14,2026-04-03,14,203.93,Debit,"Loan Payment"
+351,14,2026-04-09,11,222.06,Debit,Transfer
+352,14,2026-04-11,14,33.24,Credit,"Loan Payment"
+353,14,2026-04-16,17,304.93,Debit,Travel
+354,14,2026-04-23,20,153.45,Credit,Shopping
+355,14,2026-04-24,11,205.66,Debit,Travel
+356,14,2026-05-01,16,275.96,Debit,Transfer
+357,14,2026-05-02,11,299.84,Debit,Dining
+358,14,2026-05-03,19,159.96,Debit,Shopping
+359,14,2026-05-04,19,249.03,Debit,Dining
+360,14,2026-05-05,14,253.34,Debit,Shopping
+361,14,2026-05-06,11,342.13,Debit,Groceries
+362,14,2026-05-08,14,255.20,Credit,"Loan Payment"
+363,14,2026-05-20,8,113.79,Debit,Travel
+364,14,2026-05-30,16,202.86,Debit,Groceries
+365,14,2026-06-01,16,259.18,Credit,"ATM Withdrawal"
+366,14,2026-06-01,18,50.75,Debit,Travel
+367,14,2026-06-04,18,71.85,Credit,"Loan Payment"
+368,14,2026-06-05,16,231.09,Debit,Utilities
+369,14,2026-06-08,17,241.37,Credit,Groceries
+370,14,2026-06-17,11,313.19,Debit,Shopping
+371,14,2026-06-19,19,321.40,Debit,Groceries
+372,14,2026-06-26,14,188.50,Debit,Utilities
+373,15,2026-03-08,6,233.10,Debit,Dining
+374,15,2026-03-16,16,295.67,Debit,Transfer
+375,15,2026-03-25,13,333.70,Debit,Travel
+376,15,2026-04-14,15,250.03,Debit,Dining
+377,15,2026-04-26,14,142.32,Debit,"ATM Withdrawal"
+378,15,2026-04-27,20,245.64,Debit,Utilities
+379,15,2026-04-28,12,212.13,Debit,"ATM Withdrawal"
+380,15,2026-04-29,14,142.84,Debit,"Loan Payment"
+381,15,2026-05-01,10,30.06,Debit,Dining
+382,15,2026-05-03,14,191.15,Debit,Transfer
+383,15,2026-05-17,12,204.64,Debit,Dining
+384,15,2026-05-18,17,143.80,Debit,"Loan Payment"
+385,15,2026-05-22,15,291.28,Debit,Travel
+386,15,2026-05-26,11,307.96,Debit,Groceries
+387,15,2026-05-28,8,335.27,Debit,Travel
+388,15,2026-06-02,11,185.46,Debit,Dining
+389,15,2026-06-05,12,297.55,Debit,Groceries
+390,15,2026-06-09,13,378.00,Debit,Transfer
+391,15,2026-06-10,10,358.29,Debit,Transfer
+392,15,2026-06-29,15,397.23,Credit,Travel
+393,16,2026-03-03,16,285.92,Debit,"ATM Withdrawal"
+394,16,2026-03-11,13,207.48,Debit,"Loan Payment"
+395,16,2026-03-13,20,210.09,Debit,"Loan Payment"
+396,16,2026-03-15,14,107.65,Debit,Dining
+397,16,2026-03-21,18,237.70,Debit,"ATM Withdrawal"
+398,16,2026-03-22,13,278.26,Debit,Dining
+399,16,2026-04-02,9,267.11,Debit,Dining
+400,16,2026-04-05,15,282.23,Debit,Travel

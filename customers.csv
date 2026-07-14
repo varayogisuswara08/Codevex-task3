@@ -1,0 +1,151 @@
+customer_id,customer_name,city,join_date,credit_score
+1,"Jessica Jones",Bengaluru,2021-03-19,650
+2,"Vikram Brown",Delhi,2020-12-28,681
+3,"Karen Davis",Delhi,2018-01-16,633
+4,"Kavya Reddy",Bengaluru,2024-05-15,693
+5,"Rohan Rodriguez",Bengaluru,2019-02-28,687
+6,"Vikram Reddy",Hyderabad,2022-02-07,502
+7,"David Rodriguez","New York",2020-03-16,684
+8,"Linda Miller",Hyderabad,2022-10-21,644
+9,"John Patel",Mumbai,2019-06-25,688
+10,"Linda Gupta",Hyderabad,2024-08-11,704
+11,"James Verma",Houston,2022-08-29,686
+12,"Rohan Miller",Hyderabad,2024-08-04,687
+13,"Karen Gupta","San Francisco",2021-09-15,712
+14,"Jennifer Patel",Delhi,2018-09-09,699
+15,"Aditya Smith","New York",2021-09-04,645
+16,"Robert Martinez",Bengaluru,2020-10-09,611
+17,"Joseph Miller","San Francisco",2024-01-08,759
+18,"John Reddy",Atlanta,2024-11-07,655
+19,"Elizabeth Brown",Delhi,2021-07-29,652
+20,"Patricia Rodriguez",Delhi,2023-05-23,660
+21,"Karen Patel",Hyderabad,2019-04-21,613
+22,"Mary Smith",Houston,2021-06-20,777
+23,"Thomas Gupta",Bengaluru,2021-02-01,672
+24,"Kavya Davis",Hyderabad,2019-02-16,752
+25,"Rohan Sharma",Chicago,2023-04-30,576
+26,"Elizabeth Brown",Atlanta,2024-05-25,660
+27,"James Davis",Phoenix,2023-08-04,624
+28,"Rohan Smith",Mumbai,2021-05-02,729
+29,"Arjun Jones","New York",2022-02-22,769
+30,"Patricia Johnson",Phoenix,2018-06-26,636
+31,"Patricia Johnson",Bengaluru,2024-12-01,627
+32,"Karen Jones",Hyderabad,2020-06-12,601
+33,"Karen Johnson",Mumbai,2020-10-01,847
+34,"Aditya Garcia","New York",2021-04-23,678
+35,"Elizabeth Rao",Mumbai,2023-04-25,738
+36,"Robert Chatterjee",Chicago,2022-06-13,602
+37,"Charles Menon",Bengaluru,2023-11-07,725
+38,"Arjun Brown",Houston,2025-01-26,678
+39,"Barbara Nair",Mumbai,2023-12-09,535
+40,"Thomas Gupta","San Francisco",2019-12-19,707
+41,"Rajesh Verma",Delhi,2019-03-14,671
+42,"Elizabeth Martinez",Bengaluru,2020-12-10,725
+43,"Richard Brown",Delhi,2024-09-07,693
+44,"Joseph Reddy",Bengaluru,2021-06-23,713
+45,"Kavya Nair",Phoenix,2023-07-17,707
+46,"Aditya Brown",Delhi,2023-06-06,664
+47,"Thomas Jones",Hyderabad,2022-02-18,644
+48,"Barbara Rodriguez",Houston,2019-07-13,616
+49,"Sneha Verma",Phoenix,2020-01-29,663
+50,"Jessica Iyer",Chicago,2024-08-19,699
+51,"Charles Davis",Chicago,2023-08-09,621
+52,"Patricia Gupta","San Francisco",2022-05-31,761
+53,"Richard Nair",Mumbai,2025-03-31,743
+54,"Rajesh Rodriguez",Houston,2024-02-19,575
+55,"Ananya Miller",Chicago,2024-06-15,576
+56,"Arjun Miller",Delhi,2018-08-10,789
+57,"Arjun Gupta","New York",2021-07-31,655
+58,"Aditya Davis","San Francisco",2022-09-21,607
+59,"Sarah Sharma","San Francisco",2023-04-19,730
+60,"Jessica Garcia",Chicago,2022-02-21,555
+61,"John Martinez",Houston,2022-02-06,702
+62,"Elizabeth Smith",Phoenix,2024-04-17,690
+63,"Kavya Williams","New York",2022-07-24,741
+64,"Richard Miller",Chicago,2019-06-09,730
+65,"William Williams",Chicago,2025-03-26,737
+66,"Aditya Sharma",Bengaluru,2021-12-18,604
+67,"Joseph Rao",Bengaluru,2021-11-06,682
+68,"Rajesh Miller",Hyderabad,2021-04-08,630
+69,"David Rao","New York",2019-09-16,645
+70,"Jennifer Nair",Atlanta,2024-02-21,710
+71,"Sarah Gupta",Phoenix,2023-10-30,706
+72,"Elizabeth Rodriguez",Houston,2024-07-19,750
+73,"Kavya Nair",Mumbai,2024-06-06,717
+74,"Jennifer Martinez",Houston,2018-07-26,638
+75,"Rohan Jones","San Francisco",2024-03-20,699
+76,"Aditya Gupta",Mumbai,2020-10-13,704
+77,"Elizabeth Verma",Atlanta,2020-04-16,697
+78,"Michael Johnson","New York",2024-11-07,685
+79,"Arjun Verma","New York",2024-06-03,622
+80,"Kavya Chatterjee",Houston,2018-10-22,660
+81,"Rohan Gupta",Hyderabad,2021-03-07,732
+82,"Richard Iyer",Phoenix,2022-11-16,665
+83,"John Davis",Atlanta,2024-11-19,687
+84,"Arjun Martinez",Bengaluru,2024-05-02,625
+85,"Michael Nair",Mumbai,2018-05-11,686
+86,"Barbara Menon",Hyderabad,2024-03-06,676
+87,"Kavya Patel",Atlanta,2019-07-21,797
+88,"Jennifer Brown",Atlanta,2019-05-23,773
+89,"Susan Smith",Atlanta,2021-09-21,788
+90,"Arjun Johnson",Mumbai,2018-11-02,537
+91,"Susan Rodriguez","San Francisco",2022-03-05,664
+92,"Priya Reddy",Houston,2024-07-27,662
+93,"Susan Martinez",Mumbai,2018-05-13,743
+94,"David Smith",Hyderabad,2021-01-10,721
+95,"Robert Patel",Bengaluru,2023-08-10,652
+96,"Rohan Miller",Phoenix,2023-05-13,688
+97,"Charles Martinez",Bengaluru,2022-03-30,645
+98,"Elizabeth Iyer",Houston,2021-04-30,788
+99,"Arjun Verma",Hyderabad,2020-06-08,574
+100,"Mary Reddy",Mumbai,2024-01-05,795
+101,"Thomas Patel",Phoenix,2022-01-21,704
+102,"Vikram Rao",Houston,2021-02-07,535
+103,"Joseph Johnson",Bengaluru,2023-02-09,593
+104,"Arjun Chatterjee",Atlanta,2021-05-05,506
+105,"Charles Smith",Delhi,2019-05-22,815
+106,"Susan Sharma",Bengaluru,2018-07-31,572
+107,"Priya Rodriguez","San Francisco",2021-02-23,682
+108,"Rohan Johnson",Bengaluru,2022-08-30,680
+109,"John Gupta",Houston,2020-01-20,728
+110,"Karen Sharma","New York",2021-07-10,522
+111,"Kavya Davis",Atlanta,2019-09-03,669
+112,"Sarah Nair",Phoenix,2020-09-06,689
+113,"James Menon",Houston,2025-05-02,615
+114,"Linda Gupta",Houston,2021-03-08,578
+115,"Thomas Smith",Mumbai,2025-05-08,800
+116,"Richard Martinez",Phoenix,2018-09-10,543
+117,"Joseph Williams",Mumbai,2019-09-13,679
+118,"Thomas Verma","San Francisco",2023-06-06,695
+119,"Jennifer Patel",Delhi,2020-08-23,762
+120,"Elizabeth Verma","New York",2020-02-20,668
+121,"David Smith",Houston,2022-04-05,642
+122,"William Jones",Delhi,2022-07-18,777
+123,"Jennifer Verma","San Francisco",2018-02-17,669
+124,"Rajesh Rao","San Francisco",2022-05-16,698
+125,"Rajesh Reddy",Mumbai,2020-09-01,689
+126,"David Patel","New York",2022-01-29,696
+127,"Linda Nair",Mumbai,2021-04-29,737
+128,"Sneha Menon",Chicago,2021-05-20,718
+129,"Thomas Reddy",Delhi,2018-05-29,555
+130,"Jessica Iyer",Mumbai,2021-10-09,678
+131,"Karen Martinez",Atlanta,2022-10-13,730
+132,"Susan Brown","New York",2024-07-23,686
+133,"Linda Rao",Chicago,2024-10-25,613
+134,"David Smith","New York",2025-02-18,658
+135,"Mary Verma",Hyderabad,2024-11-01,745
+136,"Aditya Jones",Houston,2018-02-13,766
+137,"Michael Rao","New York",2024-01-21,607
+138,"Rajesh Reddy",Houston,2018-02-18,715
+139,"Richard Verma",Mumbai,2022-03-01,691
+140,"Richard Patel",Mumbai,2021-09-24,611
+141,"Sarah Smith",Chicago,2023-10-05,674
+142,"Kavya Verma","New York",2024-08-24,703
+143,"Mary Rodriguez","New York",2022-05-08,609
+144,"Priya Johnson",Houston,2021-05-19,767
+145,"Jessica Williams",Phoenix,2020-11-22,729
+146,"Richard Jones",Delhi,2021-05-17,675
+147,"Richard Verma",Hyderabad,2023-06-20,674
+148,"Sarah Menon",Atlanta,2025-02-08,626
+149,"Neha Menon",Phoenix,2020-12-14,681
+150,"Vikram Menon",Bengaluru,2023-09-17,656
